@@ -45,7 +45,7 @@ The project requires the following dependencies:
 - Imbalanced-learn
 
 ## Citation
-All Citations and credits are given in the `Project Report.pdf`(Project Report.pdf)
+All Citations and credits are given in the `Project Report.pdf`
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
